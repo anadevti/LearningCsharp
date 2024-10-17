@@ -1,36 +1,5 @@
-﻿# Ignore directories and files related to the IDE and build
-.idea/
-.vscode/
-.git/
-
-# Ignore build output directories
-bin/
-obj/
-
-
-# Ignore user-specific files
-*.suo
-*.user
-*.userosscache
-*.sln.docstates
-*.sln
-
-# Ignore backup and temporary files
-*.bak
-*.tmp
-
-# Ignore compiled DLLs and executables
-*.dll
-*.exe
-*.pdb
-
-# Ignore package directories
-packages/
-
-# Ignore project-specific files
-Logica_Com_Csharp.sln
-Logica_Com_Csharp/Logica_Com_Csharp.csproj
-analysislevel_7_default.editorconfig
-
-# Ignore global configuration
-.global.json
+﻿**/obj/
+**/.idea/
+**/.git/
+**/bin/
+**/launchSettings.json
