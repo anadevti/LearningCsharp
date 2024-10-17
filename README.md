@@ -3,7 +3,7 @@
 
 # DotNetLearner 🎯
 
-Bem-vindo ao **DotNetLearner**! 🚀 Este repositório é dedicado a documentar minha jornada explorando o mundo do C# e .NET 7. Aqui você encontrará meu progresso, desafios e os principais conceitos que aprendi pelo caminho. Se você também está começando ou tem curiosidade sobre o .NET 7, fique à vontade para explorar e aprender junto comigo! 😄
+🚀 Este repositório é dedicado a documentar minha jornada explorando o mundo do C# e .NET 7. Aqui você encontrará meu progresso, desafios e os principais conceitos que aprendi pelo caminho. Se você também está começando ou tem curiosidade sobre o .NET 7, fique à vontade para explorar e aprender junto comigo! 😄
 
 ## Sobre 💡
 
