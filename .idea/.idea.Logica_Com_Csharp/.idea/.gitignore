@@ -1,13 +1,36 @@
-﻿# Default ignored files
-/shelf/
-/workspace.xml
-# Rider ignored files
-/contentModel.xml
-/modules.xml
-/.idea.Logica_Com_Csharp.iml
-/projectSettingsUpdater.xml
-# Editor-based HTTP Client requests
-/httpRequests/
-# Datasource local storage ignored files
-/dataSources/
-/dataSources.local.xml
+﻿# Ignore directories and files related to the IDE and build
+.idea/
+.vscode/
+.git/
+
+# Ignore build output directories
+bin/
+obj/
+
+
+# Ignore user-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.sln
+
+# Ignore backup and temporary files
+*.bak
+*.tmp
+
+# Ignore compiled DLLs and executables
+*.dll
+*.exe
+*.pdb
+
+# Ignore package directories
+packages/
+
+# Ignore project-specific files
+Logica_Com_Csharp.sln
+Logica_Com_Csharp/Logica_Com_Csharp.csproj
+analysislevel_7_default.editorconfig
+
+# Ignore global configuration
+.global.json
