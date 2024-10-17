@@ -7,9 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c016f018-52a3-476d-b411-61e8d8211c7f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Logica_Com_Csharp/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Logica_Com_Csharp/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="c016f018-52a3-476d-b411-61e8d8211c7f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1729184242835</updated>
-      <workItem from="1729184244140" duration="1147000" />
+      <workItem from="1729184244140" duration="1193000" />
     </task>
     <servers />
   </component>
