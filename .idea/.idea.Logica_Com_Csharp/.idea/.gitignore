@@ -31,6 +31,7 @@ packages/
 Logica_Com_Csharp.sln
 Logica_Com_Csharp/Logica_Com_Csharp.csproj
 analysislevel_7_default.editorconfig
+.idea/.idea.Logica_Com_Csharp/.idea/
 
 # Ignore global configuration
 .global.json
